@@ -14,3 +14,4 @@ dist/*
 logs/*.log
 npm-debug.log*
 *.zip
+logs/server.log
