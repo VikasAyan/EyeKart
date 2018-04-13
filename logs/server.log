@@ -128,3 +128,67 @@
 {"level":"info","message":"Store running at http://localhost:3000","timestamp":"2018-04-13T17:22:07.245Z"}
 {"level":"info","message":"API running at http://localhost:3001","timestamp":"2018-04-13T17:22:07.388Z"}
 {"level":"info","message":"MongoDB connected successfully","timestamp":"2018-04-13T17:22:07.441Z"}
+{"level":"info","message":"Store running at http://localhost:3000","timestamp":"2018-04-13T18:39:18.252Z"}
+{"level":"info","message":"API running at http://localhost:3001","timestamp":"2018-04-13T18:39:18.424Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2018-04-13T18:39:18.482Z"}
+{"level":"info","message":"Store running at http://localhost:3000","timestamp":"2018-04-13T18:56:31.473Z"}
+{"level":"info","message":"API running at http://localhost:3001","timestamp":"2018-04-13T18:56:31.848Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2018-04-13T18:56:31.924Z"}
+{"level":"info","message":"Store running at http://localhost:3000","timestamp":"2018-04-13T19:26:24.163Z"}
+{"level":"info","message":"API running at http://localhost:3001","timestamp":"2018-04-13T19:26:24.329Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2018-04-13T19:26:24.380Z"}
+{"level":"info","message":"Store running at http://localhost:3000","timestamp":"2018-04-13T19:29:45.718Z"}
+{"message":"Page error /","name":"FetchError","type":"system","errno":"ECONNREFUSED","code":"ECONNREFUSED","stack":"FetchError: request to http://localhost:3001/api/v1/sitemap?enabled=true&path=%2F failed, reason: connect ECONNREFUSED 127.0.0.1:3001\n    at ClientRequest.<anonymous> (/home/adithya/Desktop/eyekart/node_modules/isomorphic-fetch/node_modules/node-fetch/index.js:133:11)\n    at emitOne (events.js:116:13)\n    at ClientRequest.emit (events.js:211:7)\n    at Socket.socketErrorListener (_http_client.js:387:9)\n    at emitOne (events.js:116:13)\n    at Socket.emit (events.js:211:7)\n    at emitErrorNT (internal/streams/destroy.js:64:8)\n    at _combinedTickCallback (internal/process/next_tick.js:138:11)\n    at process._tickCallback (internal/process/next_tick.js:180:9)","level":"error","timestamp":"2018-04-13T19:29:45.847Z"}
+{"level":"info","message":"API running at http://localhost:3001","timestamp":"2018-04-13T19:29:45.986Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2018-04-13T19:29:46.059Z"}
+{"level":"info","message":"Store running at http://localhost:3000","timestamp":"2018-04-13T19:30:18.938Z"}
+{"level":"info","message":"API running at http://localhost:3001","timestamp":"2018-04-13T19:30:19.037Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2018-04-13T19:30:19.087Z"}
+{"message":"Email send failed","stack":"Error: Invalid login: 535 Incorrect authentication data\n    at SMTPConnection._formatError (/home/adithya/Desktop/eyekart/node_modules/smtp-connection/lib/smtp-connection.js:528:15)\n    at SMTPConnection._actionAUTHComplete (/home/adithya/Desktop/eyekart/node_modules/smtp-connection/lib/smtp-connection.js:1231:30)\n    at SMTPConnection.<anonymous> (/home/adithya/Desktop/eyekart/node_modules/smtp-connection/lib/smtp-connection.js:319:22)\n    at SMTPConnection._processResponse (/home/adithya/Desktop/eyekart/node_modules/smtp-connection/lib/smtp-connection.js:669:16)\n    at SMTPConnection._onData (/home/adithya/Desktop/eyekart/node_modules/smtp-connection/lib/smtp-connection.js:493:10)\n    at emitOne (events.js:116:13)\n    at TLSSocket.emit (events.js:211:7)\n    at addChunk (_stream_readable.js:263:12)\n    at readableAddChunk (_stream_readable.js:250:11)\n    at TLSSocket.Readable.push (_stream_readable.js:208:10)","code":"EAUTH","response":"535 Incorrect authentication data","responseCode":535,"command":"AUTH PLAIN","level":"error","timestamp":"2018-04-13T19:31:08.249Z"}
+{"message":"Email send failed","stack":"Error: Invalid login: 535 Incorrect authentication data\n    at SMTPConnection._formatError (/home/adithya/Desktop/eyekart/node_modules/smtp-connection/lib/smtp-connection.js:528:15)\n    at SMTPConnection._actionAUTHComplete (/home/adithya/Desktop/eyekart/node_modules/smtp-connection/lib/smtp-connection.js:1231:30)\n    at SMTPConnection.<anonymous> (/home/adithya/Desktop/eyekart/node_modules/smtp-connection/lib/smtp-connection.js:319:22)\n    at SMTPConnection._processResponse (/home/adithya/Desktop/eyekart/node_modules/smtp-connection/lib/smtp-connection.js:669:16)\n    at SMTPConnection._onData (/home/adithya/Desktop/eyekart/node_modules/smtp-connection/lib/smtp-connection.js:493:10)\n    at emitOne (events.js:116:13)\n    at TLSSocket.emit (events.js:211:7)\n    at addChunk (_stream_readable.js:263:12)\n    at readableAddChunk (_stream_readable.js:250:11)\n    at TLSSocket.Readable.push (_stream_readable.js:208:10)","code":"EAUTH","response":"535 Incorrect authentication data","responseCode":535,"command":"AUTH PLAIN","level":"error","timestamp":"2018-04-13T19:31:22.251Z"}
+{"level":"info","message":"Store running at http://localhost:3000","timestamp":"2018-04-13T19:33:39.145Z"}
+{"level":"info","message":"API running at http://localhost:3001","timestamp":"2018-04-13T19:33:39.309Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2018-04-13T19:33:39.409Z"}
+{"level":"info","message":"Store running at http://localhost:3000","timestamp":"2018-04-13T19:35:31.066Z"}
+{"level":"info","message":"API running at http://localhost:3001","timestamp":"2018-04-13T19:35:31.319Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2018-04-13T19:35:31.397Z"}
+{"message":"Email send failed","stack":"Error: connect ECONNREFUSED 127.0.0.1:465\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1198:14)","code":"ECONNECTION","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":465,"command":"CONN","level":"error","timestamp":"2018-04-13T19:35:49.022Z"}
+{"message":"Email send failed","stack":"Error: connect ECONNREFUSED 127.0.0.1:465\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1198:14)","code":"ECONNECTION","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":465,"command":"CONN","level":"error","timestamp":"2018-04-13T19:35:50.617Z"}
+{"message":"Email send failed","stack":"Error: connect ECONNREFUSED 127.0.0.1:465\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1198:14)","code":"ECONNECTION","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":465,"command":"CONN","level":"error","timestamp":"2018-04-13T19:35:51.637Z"}
+{"message":"Email send failed","stack":"Error: connect ECONNREFUSED 127.0.0.1:465\n    at Object._errnoException (util.js:1022:11)\n    at _exceptionWithHostPort (util.js:1044:20)\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1198:14)","code":"ECONNECTION","errno":"ECONNREFUSED","syscall":"connect","address":"127.0.0.1","port":465,"command":"CONN","level":"error","timestamp":"2018-04-13T19:35:52.197Z"}
+{"level":"info","message":"Store running at http://localhost:3000","timestamp":"2018-04-13T19:45:41.908Z"}
+{"level":"info","message":"API running at http://localhost:3001","timestamp":"2018-04-13T19:45:42.093Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2018-04-13T19:45:42.140Z"}
+{"level":"info","message":"Store running at http://localhost:3000","timestamp":"2018-04-13T19:49:39.717Z"}
+{"level":"info","message":"API running at http://localhost:3001","timestamp":"2018-04-13T19:49:39.877Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2018-04-13T19:49:39.928Z"}
+{"level":"info","message":"Store running at http://localhost:3000","timestamp":"2018-04-13T19:52:32.802Z"}
+{"level":"info","message":"API running at http://localhost:3001","timestamp":"2018-04-13T19:52:32.928Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2018-04-13T19:52:32.989Z"}
+{"level":"error","message":"API error Failed to parse JSON","timestamp":"2018-04-13T19:52:34.581Z"}
+{"level":"error","message":"API error Failed to parse JSON","timestamp":"2018-04-13T19:52:39.788Z"}
+{"level":"info","message":"Store running at http://localhost:3000","timestamp":"2018-04-13T19:52:56.610Z"}
+{"level":"info","message":"API running at http://localhost:3001","timestamp":"2018-04-13T19:52:56.917Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2018-04-13T19:52:56.985Z"}
+{"level":"info","message":"Store running at http://localhost:3000","timestamp":"2018-04-13T19:53:29.589Z"}
+{"level":"info","message":"API running at http://localhost:3001","timestamp":"2018-04-13T19:53:29.649Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2018-04-13T19:53:29.729Z"}
+{"level":"info","message":"Store running at http://localhost:3000","timestamp":"2018-04-13T21:00:10.401Z"}
+{"level":"info","message":"API running at http://localhost:3001","timestamp":"2018-04-13T21:00:10.635Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2018-04-13T21:00:10.704Z"}
+{"level":"info","message":"Store running at http://localhost:3000","timestamp":"2018-04-13T21:09:01.715Z"}
+{"level":"info","message":"API running at http://localhost:3001","timestamp":"2018-04-13T21:09:01.886Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2018-04-13T21:09:01.956Z"}
+{"level":"info","message":"Store running at http://localhost:3000","timestamp":"2018-04-13T21:10:06.793Z"}
+{"level":"info","message":"API running at http://localhost:3001","timestamp":"2018-04-13T21:10:06.956Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2018-04-13T21:10:07.014Z"}
+{"level":"info","message":"Store running at http://localhost:3000","timestamp":"2018-04-13T21:13:37.159Z"}
+{"level":"info","message":"API running at http://localhost:3001","timestamp":"2018-04-13T21:13:37.388Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2018-04-13T21:13:37.460Z"}
+{"level":"info","message":"Store running at http://localhost:3000","timestamp":"2018-04-13T21:16:40.022Z"}
+{"level":"info","message":"API running at http://localhost:3001","timestamp":"2018-04-13T21:16:40.212Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2018-04-13T21:16:40.275Z"}
+{"accepted":["aryan.vikash92@gmail.com"],"rejected":[],"response":"250 2.0.0 OK 1523654751 67sm19048841pfp.122 - gsmtp","envelope":{"from":"eyekart@gmail.com","to":["aryan.vikash92@gmail.com"]},"messageId":"ef95852a-13e5-ea0d-829d-578d1c7bb87f@gmail.com","level":"info","message":"Email sent","timestamp":"2018-04-13T21:25:51.882Z"}
+{"level":"info","message":"Store running at http://localhost:3000","timestamp":"2018-04-13T21:28:25.308Z"}
+{"level":"info","message":"API running at http://localhost:3001","timestamp":"2018-04-13T21:28:25.469Z"}
+{"level":"info","message":"MongoDB connected successfully","timestamp":"2018-04-13T21:28:25.534Z"}
