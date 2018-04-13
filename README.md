@@ -11,12 +11,6 @@ Built with:
 * WebPack 4
 * MongoDB
 
-## Installation
-
-- [with GitHub](https://github.com/VikasAyan/eyekart/blob/master/docs/getting-started.md)
-- [with Docker](https://github.com/VikasAyan/eyekart/blob/master/docs/getting-started-docker.md)
-- [How to deploy a Eyekart on Ubuntu 16.04](https://github.com/cezerin/cezerin/blob/master/docs/how-to-deploy-eyekart-on-ubuntu-16-04.md)
-
 ### Requirements
 * Node.js >= 8
 * MongoDB >= 3.2
