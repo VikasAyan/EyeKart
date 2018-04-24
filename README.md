@@ -3,7 +3,7 @@
 EyeKart is React and Node.js based eCommerce platform.
 
 Built with:
-* Node.js v8.9
+* [Node.js v8.11.1](https://nodejs.org/dist/latest-v8.x/docs/api/)
 * React v16
 * Redux
 * Express
