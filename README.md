@@ -1,4 +1,4 @@
-# EyeKart - Ecommerce Progressive Web App
+# EyeKart - Commodity Management platform
 
 EyeKart is React and Node.js based eCommerce platform.
 
